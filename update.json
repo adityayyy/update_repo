@@ -1,1 +1,18 @@
-
+{
+    "maintainer": [
+        {
+            "display_name": "aditya",
+            "telegram": "@Theannoyingcat",
+            "github": "adityayyy"
+        }
+    ],
+    "model": "Nothing phone 1",
+    "codename": "Spacewar",
+    "active": true,
+    "version": "fifteen",
+    "release": "monthly",
+    "last_updated": "18 February 2025",
+    "download_link": "https://g4ruda.live/0:/PixelOS_Spacewar-15.0-20250218-0628.zip",
+    "archive": "",
+    "xda": ""
+}
