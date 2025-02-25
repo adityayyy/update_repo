@@ -1,18 +1,13 @@
 {
-    "maintainer": [
-        {
-            "display_name": "aditya",
-            "telegram": "@Theannoyingcat",
-            "github": "adityayyy"
-        }
-    ],
-    "model": "Nothing phone 1",
-    "codename": "Spacewar",
-    "active": true,
-    "version": "fifteen",
-    "release": "monthly",
-    "last_updated": "25 February 2025",
-    "download_link": "https://g4ruda.live/0:/PixelOS_Spacewar-15.0-20250225-1454.zip",
-    "archive": "",
-    "xda": ""
+  "response": [
+    {
+      "datetime":  1740495230,
+      "filename": "PixelOS_Spacewar-15.0-20250225-1454.zip",
+      "id": "a20d34c74be5d08b1bf85c1917912c94b8d0c62d ",
+      "romtype": "Unofficial",
+      "size": 2254247108,
+      "url": "https://g4ruda.live/0:/PixelOS_Spacewar-15.0-20250225-1454.zip",
+      "version": "fifteen"
+    }
+  ]
 }
